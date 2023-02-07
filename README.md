@@ -1,4 +1,4 @@
-# Calculadora
+# Calculadora 2.0
 Calcula tudo mais, menos, vezes e divisão.
 ### Estav fazendo nada então fiz essa calculadora !
 
